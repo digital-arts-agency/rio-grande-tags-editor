@@ -24,7 +24,7 @@ async function initialize() {
 
   console.log(editor);
 
-  await editor.assetManager.addFromPath("https://rio-assets.s3.eu-west-2.amazonaws.com/show-tags.glb");
+  await editor.assetManager.addFromPath("https://rio-assets.s3.eu-west-2.amazonaws.com/showcase-tags.glb");
 
   // add model manager
 
